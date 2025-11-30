@@ -4,7 +4,7 @@ DISTVERSION=	0.3.960
 CATEGORIES=	devel
 PKGNAMESUFFIX=	-go
 
-MAINTAINER=	ports@FreeBSD.org
+MAINTAINER=	dave@freedave.net
 COMMENT=	HTML templating for go
 WWW=		https://templ.guide/
 
